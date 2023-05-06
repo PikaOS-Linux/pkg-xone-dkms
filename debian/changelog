@@ -1,3 +1,10 @@
+xone (0.3-99pika1.lunar) lunar; urgency=medium
+
+  * Update to lunar.
+ 
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Thu, 04 Oct 2022 17:50:00 +0300
+
+
 xone (0.3-6) kinetic; urgency=medium
 
   * Fix bad deps.
