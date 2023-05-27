@@ -4,7 +4,7 @@ add-apt-repository https://ppa.pika-os.com
 add-apt-repository ppa:pikaos/pika
 add-apt-repository ppa:kubuntu-ppa/backports
 # Clone Upstream
-git clone https://github.com/medusalix/xone -b v0.3
+git clone https://github.com/medusalix/xone
 cp -rvf ./debian ./xone
 cd ./xone
 
