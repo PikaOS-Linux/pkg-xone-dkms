@@ -12,7 +12,7 @@ cd ./xone
 apt-get build-dep ./ -y
 
 # Build package
-LOGNAME=root dh_make --createorig -y -l -p xone_0.3
+LOGNAME=root dh_make --createorig -y -l -p xone_0.3.git
 dpkg-buildpackage
 
 # Move the debs to output
